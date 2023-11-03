@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Rubik:wght@400;500;600;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+}
+
+.container {
+  max-width: 133rem !important;
+  margin: 0 auto !important;
+  padding: 0 2.5rem !important;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #f4c336 #ffffff;
+}
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+  width: 10px;
+  width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+*::-webkit-scrollbar-track:hover {
+  background-color: #ffffff;
+}
+
+*::-webkit-scrollbar-track:active {
+  background-color: #ffffff;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  background-color: #f4c336;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #f4c336;
+}
