@@ -4,6 +4,7 @@ import SelectKit from "../components/SelectKit";
 import Banner from "../components/Banner";
 import ChooseUs from "../components/ChooseUs";
 import Client from "../components/Client";
+import Testimonial from "../components/Testimonial";
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
       <Banner />
       <ChooseUs />
       <Client />
+      <Testimonial />
     </>
   );
 }
