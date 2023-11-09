@@ -19,7 +19,7 @@ function Navbar() {
           </li>
           <li>
             {" "}
-            <Link className="about-link" to="/">
+            <Link className="about-link" to="/about">
               About
             </Link>
           </li>
