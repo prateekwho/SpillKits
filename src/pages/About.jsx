@@ -4,6 +4,9 @@ import Icon1 from "../images/about/icon1.png";
 import Icon2 from "../images/about/icon2.png";
 import Icon3 from "../images/about/icon3.png";
 import "../components/About.css";
+import SelectKit from "../components/SelectKit";
+import BookKit from "../components/BookKit";
+import Footer from "../components/Footer";
 
 function About() {
   return (
@@ -54,7 +57,10 @@ function About() {
               </div>
             </div>
           </div>
+          <SelectKit />
         </div>
+        <BookKit />
+        <Footer />
       </section>
     </>
   );
