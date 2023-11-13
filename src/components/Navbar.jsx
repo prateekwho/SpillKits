@@ -37,7 +37,7 @@ function Navbar() {
           </li>
         </ul>
         <div className="navbar__button">
-          <Link className="navbar__button__contact" to="/">
+          <Link className="navbar__button__contact" to="/contact">
             Contact
           </Link>
         </div>
