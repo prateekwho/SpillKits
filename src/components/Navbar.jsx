@@ -25,7 +25,7 @@ function Navbar() {
           </li>
           <li>
             {" "}
-            <Link className="products-link" to="/">
+            <Link className="products-link" to="/spillkits">
               Spill Kits
             </Link>
           </li>
