@@ -3,6 +3,9 @@ import Footer from "./Footer";
 import BookKit from "../components/BookKit";
 import HeroPages from "./HeroPages";
 import { Link } from "react-router-dom";
+import ChemicalKit from "../images/spillkit/chemicalKit.png";
+import OilKit from "../images/spillkit/oilKit.png";
+import UniversalKit from "../images/spillkit/universalKit.png";
 
 function SpillKits() {
   return (
@@ -20,14 +23,7 @@ function SpillKits() {
                 <Link onClick={() => window.scrollTo(0, 0)} to="/">
                   <div className="pro undefined">
                     <div className="pro__img">
-                      <img
-                        src={""}
-                        alt=""
-                        style={{
-                          transform: "translateY(0%)",
-                          transition: "transform 10s ease-in-out 0s",
-                        }}
-                      />
+                      <img src={OilKit} alt="" />
                     </div>
                     <div className="pro__text">
                       <h3>oil spill kits 🫙 </h3>
@@ -42,14 +38,7 @@ function SpillKits() {
                 <Link onClick={() => window.scrollTo(0, 0)} to="/">
                   <div className="pro reversed-pro">
                     <div className="pro__img">
-                      <img
-                        src={""}
-                        alt=""
-                        style={{
-                          transform: "translateY(0%)",
-                          transition: "transform 10s ease-in-out 0s",
-                        }}
-                      />
+                      <img src={ChemicalKit} alt="" />
                     </div>
                     <div className="pro__text">
                       <h3>chemical spill kits 🫙</h3>
@@ -65,14 +54,7 @@ function SpillKits() {
                 <Link onClick={() => window.scrollTo(0, 0)} to="/">
                   <div className="pro undefined">
                     <div className="pro__img">
-                      <img
-                        src={""}
-                        alt=""
-                        style={{
-                          transform: "translateY(0%)",
-                          transition: "transform 10s ease-in-out 0s",
-                        }}
-                      />
+                      <img src={UniversalKit} alt="" />
                     </div>
                     <div className="pro__text">
                       <h3>universal spill kits 🫙</h3>
