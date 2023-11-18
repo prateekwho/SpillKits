@@ -6,6 +6,7 @@ import About from "./pages/About";
 import TestimonialPage from "./pages/TestimonialPage";
 import Contact from "./pages/Contact";
 import SpillKits from "./components/SpillKits";
+import Oil from "./pages/spillkits/Oil";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route index path="/" element={<Home />} />
         <Route index path="about" element={<About />} />
         <Route path="spillkits" element={<SpillKits />} />
+        <Route path="spillkits/oil" element={<Oil />} />
         <Route index path="testimonial" element={<TestimonialPage />} />
         <Route index path="contact" element={<Contact />} />
       </Routes>

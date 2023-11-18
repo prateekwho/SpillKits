@@ -20,7 +20,7 @@ function SpillKits() {
                 <h2>Effective Solutions for Controlling and Cleaning Spills</h2>
               </div>
               <div className="product-grid">
-                <Link onClick={() => window.scrollTo(0, 0)} to="/">
+                <Link onClick={() => window.scrollTo(0, 0)} to="/spillkits/oil">
                   <div className="pro undefined">
                     <div className="pro__img">
                       <img src={OilKit} alt="" />
