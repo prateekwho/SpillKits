@@ -35,7 +35,10 @@ function SpillKits() {
                     </div>
                   </div>
                 </Link>
-                <Link onClick={() => window.scrollTo(0, 0)} to="/">
+                <Link
+                  onClick={() => window.scrollTo(0, 0)}
+                  to="/spillkits/chemical"
+                >
                   <div className="pro reversed-pro">
                     <div className="pro__img">
                       <img src={ChemicalKit} alt="" />
