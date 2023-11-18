@@ -1,5 +1,5 @@
 import "../../ProductPage.css";
-import Chemical50 from "../../../images/spillkit/chemical-kit/Chemical50.jpg";
+import Chemical50 from "../../../images/spillkit/chemical-kit/chemical50.jpg";
 
 function Chemical50L() {
   return (
