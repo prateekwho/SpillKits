@@ -54,7 +54,10 @@ function SpillKits() {
                     </div>
                   </div>
                 </Link>
-                <Link onClick={() => window.scrollTo(0, 0)} to="/">
+                <Link
+                  onClick={() => window.scrollTo(0, 0)}
+                  to="/spillkits/universal"
+                >
                   <div className="pro undefined">
                     <div className="pro__img">
                       <img src={UniversalKit} alt="" />

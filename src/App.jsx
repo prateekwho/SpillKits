@@ -8,6 +8,7 @@ import Contact from "./pages/Contact";
 import SpillKits from "./components/SpillKits";
 import Oil from "./pages/spillkits/Oil";
 import Chemical from "./pages/spillkits/Chemical";
+import Universal from "./pages/spillkits/Universal";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="spillkits" element={<SpillKits />} />
         <Route path="spillkits/oil" element={<Oil />} />
         <Route path="spillkits/chemical" element={<Chemical />} />
+        <Route path="spillkits/universal" element={<Universal />} />
         <Route index path="testimonial" element={<TestimonialPage />} />
         <Route index path="contact" element={<Contact />} />
       </Routes>
