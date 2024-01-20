@@ -9,7 +9,7 @@ function Footer() {
           <div className="footer-content">
             <ul className="footer-content__1">
               <li>
-                Industrial Care <span>.</span>
+                Voltech India <span>.</span>
               </li>
               <li>
                 Our spill kits offer comprehensive protection from unexpected
@@ -32,7 +32,7 @@ function Footer() {
               </li>
               <li>
                 <p>
-                  Privacy Policy | © {new Date().getFullYear()} Industrial Care{" "}
+                  Privacy Policy | © {new Date().getFullYear()} Voltech India{" "}
                   <br /> Developed by {""}
                   <a
                     target="_blank"
@@ -94,35 +94,25 @@ function Footer() {
                 industrialcare@hotmail.com"
                   target="_blank"
                 >
-                  &nbsp; industrialcare@hotmail.com
+                  &nbsp; voltechindia@hotmail.com
                 </a>
               </li>
               <li>
                 <ul className="footer-content__2__company">
-                  <li>Industrial Care</li>
-                  <li>
-                    <span>Sales Office</span>
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-location-dot"></i>
-                    <a
-                      href="https://goo.gl/maps/NdFn7pAUb8QpkbKDA"
-                      target="_blank"
-                    >
-                      &nbsp; 243, GF ShopNo. 13 & 14, Prakash Market, Phatak
-                      Karor, Ajmeri Gate, <br /> Delhi -110006
-                    </a>
-                  </li>
+                  <li>Voltech India</li>
                   <li>
                     <span>Register Office</span>
                   </li>
                   <li>
                     <i className="fa-solid fa-location-dot"></i>
                     <a
-                      href="http://maps.google.com/?q=11/94 Geeta Colony Near Kanchan Studio Delhi-110031"
+                      href="https://maps.google.com/?q=28.6752497,77.3017465"
                       target="_blank"
                     >
-                      &nbsp; 11/94, Geeta Colony, <br /> New Delhi - 110031
+                      &nbsp; 340/2/28, Gali No-1, Friends Colony Industrial Area
+                      opp. Mansarovar Park Metro Station Parking, Metro Pillar
+                      No 24,
+                      <br /> Shahdara, Delhi -110095
                     </a>
                   </li>
                 </ul>
