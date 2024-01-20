@@ -49,7 +49,7 @@
 }
 
 .hero-content__text h1 span {
-  color: #f4c336;
+  color: #49e755;
 }
 
 .hero-content__text p {
@@ -80,10 +80,10 @@
 }
 
 .hero-content__text__btn__contact {
-  background-color: #f4c336;
+  background-color: #49e755;
   color: white;
   padding: 1.5rem 3rem;
-  border: 2px solid #f4c336;
+  border: 2px solid #49e755;
   border-radius: 3px;
   transition: all 0.3s;
 }
@@ -95,8 +95,8 @@
 }
 
 .hero-content__text__btn__contact:hover {
-  background-color: transparent;
-  color: #f4c336;
+  background-color: #369b36;
+  border-color: #369b36;
 }
 
 .hero-content__resq-spill {
@@ -115,7 +115,7 @@
   position: fixed;
   font-size: 2.5rem;
   color: white;
-  background-color: #f4c336;
+  background-color: #49e755;
   border: 3px solid white;
   width: 2rem;
   height: 2rem;

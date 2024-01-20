@@ -63,7 +63,7 @@
   margin-bottom: 0.5rem;
 }
 .contact-div__text a:hover {
-  color: #f4c336;
+  color: #49e755;
 }
 .contact-div__form {
   display: flex;
@@ -79,7 +79,7 @@
   margin-bottom: 1rem;
 }
 .contact-div__form form label b {
-  color: #f4c336;
+  color: #49e755;
 }
 .contact-div__form form input {
   background-color: #f2f2f2;
@@ -99,11 +99,11 @@
   margin-bottom: 2.5rem;
 }
 .contact-div__form form button {
-  background-color: #f4c336;
+  background-color: #49e755;
   padding: 1.8rem 3rem;
   border-radius: 0.3rem;
   transition: all 0.3s;
-  border: 2px solid #f4c336;
+  border: 2px solid #49e755;
   color: white;
   font-size: 1.8rem;
   font-weight: 600;

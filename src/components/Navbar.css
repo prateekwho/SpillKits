@@ -41,7 +41,7 @@
   transition: all 0.3s;
 }
 .navbar__links a:hover {
-  color: #f7d060;
+  color: #49e755;
 }
 @media (max-width: 1000px) {
   .navbar__links {
@@ -61,16 +61,16 @@
 }
 
 .navbar__button__contact {
-  background-color: #f4c336;
+  background-color: #49e755;
   color: #f8f8f8;
   padding: 1.5rem 3rem;
-  border: 2px solid #f4c336;
+  border: 2px solid #49e755;
   border-radius: 3px;
   transition: all 0.3s;
 }
 .navbar__button__contact:hover {
   background-color: transparent;
-  color: #f4c336;
+  color: #49e755;
 }
 .navbar__button a {
   text-decoration: none;

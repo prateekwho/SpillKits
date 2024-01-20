@@ -70,17 +70,18 @@
   text-decoration: none;
   color: white;
   font-weight: 700;
-  background-color: #f4c336;
+  background-color: #49e755;
   padding: 1.5rem 2.5rem;
   border-radius: 0.3rem;
   transition: all 0.3s;
-  border: 2px solid #f4c336;
+  border: 2px solid #49e755;
   font-size: 1.6rem;
   width: -moz-fit-content;
   width: fit-content;
 }
 .text-container__left a:hover {
-  background-color: #e4ae12;
+  background-color: #369b36;
+  border-color: #369b36;
 }
 .text-container__right {
   display: flex;
