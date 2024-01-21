@@ -18,7 +18,7 @@ function TopBar() {
                 industrialcare@hotmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; industrialcare@hotmail.com
+                  &nbsp; voltechindia@hotmail.com
                 </a>
               </li>
               <li>
