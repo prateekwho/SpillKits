@@ -25,29 +25,23 @@ function Contact() {
               <div>
                 <i className="fa-solid fa-envelope"></i>
                 <a href="mailto:industrialcare@hotmail.com">
-                  &nbsp; industrialcare@hotmail.com
+                  &nbsp; voltechindia@hotmail.com
                 </a>
               </div>
               <div>
-                <h5>Industrial Care</h5>
-              </div>
-              <div>
-                <span>Sales Office</span>
-              </div>
-              <div>
-                <i className="fa-solid fa-location-dot"></i>
-                <a href="https://goo.gl/maps/NdFn7pAUb8QpkbKDA">
-                  &nbsp; 243, GF ShopNo. 13 & 14, Prakash Market, Phatak Karor,
-                  Ajmeri Gate, Delhi -110006
-                </a>
+                <h5>Voltech India</h5>
               </div>
               <div>
                 <span>Register Office</span>
               </div>
               <div>
                 <i className="fa-solid fa-location-dot"></i>
-                <a href="http://maps.google.com/?q=11/94 Geeta Colony Near Kanchan Studio Delhi-110031">
-                  &nbsp; 11/94, Geeta Colony, <br /> New Delhi - 110031
+                <a href="https://maps.google.com/?q=28.6752497,77.3017465">
+                  &nbsp; 340/2/28, Gali No-1, Friends Colony Industrial Area
+                  opp. Mansarovar Park Metro Station Parking, Metro Pillar No
+                  24, Shahdara,
+                  <br />
+                  Delhi -110095
                 </a>
               </div>
             </div>
