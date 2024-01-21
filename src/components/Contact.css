@@ -110,5 +110,6 @@
   cursor: pointer;
 }
 .contact-div__form form button:hover {
-  background-color: #e4ae12;
+  background-color: #369b36;
+  border-color: #369b36;
 }

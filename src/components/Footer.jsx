@@ -111,8 +111,8 @@ function Footer() {
                     >
                       &nbsp; 340/2/28, Gali No-1, Friends Colony Industrial Area
                       opp. Mansarovar Park Metro Station Parking, Metro Pillar
-                      No 24,
-                      <br /> Shahdara, Delhi -110095
+                      No 24, Shahdara,
+                      <br /> Delhi -110095
                     </a>
                   </li>
                 </ul>
