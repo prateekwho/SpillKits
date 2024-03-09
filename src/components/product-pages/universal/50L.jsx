@@ -1,5 +1,5 @@
 import "../../ProductPage.css";
-import Universal50 from "../../../images/spillkit/universal-kit/universal50.jpg";
+import Universal50 from "../../../images/spillkit/universal-kit/universal50.png";
 
 function Universal50L() {
   return (

@@ -1,5 +1,5 @@
 import "../../ProductPage.css";
-import Oil15 from "../../../images/spillkit/oil-kit/oil15.jpg";
+import Oil15 from "../../../images/spillkit/oil-kit/oil15.png";
 
 function Oil15L() {
   return (
